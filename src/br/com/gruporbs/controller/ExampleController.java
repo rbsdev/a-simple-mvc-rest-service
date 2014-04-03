@@ -1,17 +1,17 @@
-package br.com.feevale.controller;
+package br.com.gruporbs.controller;
 
 import java.util.List;
 import javax.ejb.Local;
 
-import br.com.feevale.controller.exception.ExampleException;
-import br.com.feevale.model.Example;
+import br.com.gruporbs.controller.exception.ExampleException;
+import br.com.gruporbs.model.Example;
 
 /**
  * Interface que especifica o funcionamento de um ExampleController
  * um Example Controller completo deverá implementar todas as características
  * desta interface para ser considerado válido. A anotação @Local define
  * essa interface como Interface local de um EJB
- * @author isaias_alves <isaiasa@wswork.com.br> 0022464
+ * @author isaias_alves isaias <isaias.alves@gruporbs.com.br>
  * @version 1.0
  */
 @Local

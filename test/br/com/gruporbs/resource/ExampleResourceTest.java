@@ -1,11 +1,11 @@
-package br.com.feevale.resource;
+package br.com.gruporbs.resource;
 
 import org.junit.Test;
 import org.mockito.Mockito;
 
-import br.com.feevale.controller.ExampleControllerBean;
-import br.com.feevale.controller.exception.ExampleException;
-import br.com.feevale.model.Example;
+import br.com.gruporbs.controller.ExampleControllerBean;
+import br.com.gruporbs.controller.exception.ExampleException;
+import br.com.gruporbs.model.Example;
 
 /**
  * Classe que possui testes referentes à resources (serviços)

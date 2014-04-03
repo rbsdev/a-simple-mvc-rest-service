@@ -1,4 +1,4 @@
-package br.com.feevale.controller.exception;
+package br.com.gruporbs.controller.exception;
 
 /**
  * Exception que trata a geração de erros possíveis em um módulo

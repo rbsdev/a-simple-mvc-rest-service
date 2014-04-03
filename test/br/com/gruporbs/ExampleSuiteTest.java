@@ -1,4 +1,4 @@
-package br.com.feevale;
+package br.com.gruporbs;
 
 import org.junit.runner.JUnitCore;
 import org.junit.runner.Result;
@@ -6,9 +6,9 @@ import org.junit.runner.RunWith;
 import org.junit.runner.notification.Failure;
 import org.junit.runners.Suite;
 
-import br.com.feevale.controller.ExampleControllerBeanTest;
-import br.com.feevale.dao.ExampleDAOTest;
-import br.com.feevale.resource.ExampleResourceTest;
+import br.com.gruporbs.controller.ExampleControllerBeanTest;
+import br.com.gruporbs.dao.ExampleDAOTest;
+import br.com.gruporbs.resource.ExampleResourceTest;
 
 /**
  * Suite de testes que une os testes necessários para o módulo

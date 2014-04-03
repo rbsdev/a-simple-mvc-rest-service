@@ -1,20 +1,20 @@
-package br.com.feevale.controller;
+package br.com.gruporbs.controller;
 
 import java.util.LinkedList;
 import java.util.List;
 
 import javax.ejb.Stateless;
 
-import br.com.feevale.controller.exception.ExampleException;
-import br.com.feevale.controller.exception.ExampleException.ExampleErrorType;
-import br.com.feevale.dao.ExampleDAO;
-import br.com.feevale.model.Example;
+import br.com.gruporbs.controller.exception.ExampleException;
+import br.com.gruporbs.controller.exception.ExampleException.ExampleErrorType;
+import br.com.gruporbs.dao.ExampleDAO;
+import br.com.gruporbs.model.Example;
 
 /**
  * Implementação para controller do módulo Example, representa em um
  * contexto EJB um SessionBean Stateless, provendo funcionalidades
  * para o funcionamento escalável e eficiente de um controller
- * @author isaias_alves <isaiasa@wswork.com.br> 0022464
+ * @author isaias_alves isaias <isaias.alves@gruporbs.com.br>
  * @version 1.0
  */
 @Stateless

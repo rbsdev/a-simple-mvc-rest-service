@@ -1,9 +1,9 @@
-package br.com.feevale.dao;
+package br.com.gruporbs.dao;
 
 import static org.junit.Assert.fail;
 import org.junit.Test;
 
-import br.com.feevale.model.Example;
+import br.com.gruporbs.model.Example;
 
 /**
  * Testa as funcionalidades do nosso DAO estatico

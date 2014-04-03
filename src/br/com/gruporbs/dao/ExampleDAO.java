@@ -1,6 +1,6 @@
-package br.com.feevale.dao;
+package br.com.gruporbs.dao;
 
-import br.com.feevale.model.Example;
+import br.com.gruporbs.model.Example;
 
 /**
  * Essa é uma classe DAO comum, não possui nenhuma implementação em banco de

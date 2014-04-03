@@ -1,4 +1,4 @@
-package br.com.feevale.model;
+package br.com.gruporbs.model;
 
 /**
  * Classe que representa o modelo do meu módulo "Example", poderá

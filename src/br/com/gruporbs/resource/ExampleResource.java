@@ -1,4 +1,4 @@
-package br.com.feevale.resource;
+package br.com.gruporbs.resource;
 
 import javax.ejb.EJB;
 import javax.enterprise.context.RequestScoped;
@@ -12,9 +12,9 @@ import javax.ws.rs.QueryParam;
 import javax.ws.rs.core.MediaType;
 import javax.ws.rs.core.Response;
 
-import br.com.feevale.controller.ExampleController;
-import br.com.feevale.controller.exception.ExampleException;
-import br.com.feevale.model.Example;
+import br.com.gruporbs.controller.ExampleController;
+import br.com.gruporbs.controller.exception.ExampleException;
+import br.com.gruporbs.model.Example;
 
 /**
  * Classe resource responsável pelo módulo exemplo, através desta classe podemos

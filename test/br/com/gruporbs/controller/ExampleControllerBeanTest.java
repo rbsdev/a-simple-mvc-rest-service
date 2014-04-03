@@ -1,4 +1,4 @@
-package br.com.feevale.controller;
+package br.com.gruporbs.controller;
 
 import static org.junit.Assert.fail;
 
@@ -10,9 +10,9 @@ import org.junit.Test;
 import org.mockito.Mock;
 import org.mockito.Mockito;
 
-import br.com.feevale.controller.exception.ExampleException;
-import br.com.feevale.dao.ExampleDAO;
-import br.com.feevale.model.Example;
+import br.com.gruporbs.controller.exception.ExampleException;
+import br.com.gruporbs.dao.ExampleDAO;
+import br.com.gruporbs.model.Example;
 
 /**
  * Efetua testes no controlador do módulo Example
