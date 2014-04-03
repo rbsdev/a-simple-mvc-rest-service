@@ -1,7 +1,7 @@
 a-simple-mvc-rest-service
 =========================
 
-Projeto REST/Jersey simples contendo módulo exemplo com TDD, implementado em Java
+Projeto REST/Jersey simples de exemplo, tem o claro objetivo de auxiliar os colegas a desenvolver aplicações orientadas à serviços de forma contemporânea.
 
 
 * O projeto foi desenvolvido utilizando padrões de mercado como:
